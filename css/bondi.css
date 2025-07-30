@@ -153,6 +153,10 @@ body{
 .Subscribe{
     background-color: var(--dark-blue);
     color: var(--yellow);
+    box-shadow: none;
+}
+.Subscribe:focus{
+    color: white;
 }
 .footer{
     background-color: var(--dark-blue);
