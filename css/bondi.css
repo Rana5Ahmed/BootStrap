@@ -155,7 +155,7 @@ body{
     color: var(--yellow);
     box-shadow: none;
 }
-.Subscribe:focus{
+.Subscribe:hover{
     color: white;
 }
 .footer{
